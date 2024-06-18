@@ -23,7 +23,7 @@ export default function Component() {
               Contrata los Mejores Profesionales de Limpieza
               </h1>
               <p className="text-gray-300 md:text-xl">
-              Encuentre limpiadores, electricistas, jardineros y fontaneros de primer nivel con solo unos pocos clics.              </p>
+              Encuentre limpiadores, electricistas, jardineros y fontaneros de primer nivel con solo unos pocos clics.</p>
               <div className="flex gap-2">
                 <Button className="boton2">Hire Now</Button>
                 <Button variant="outline" className="text-white hover:bg-white hover:text-gray-900">
